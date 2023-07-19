@@ -1,2 +1,5 @@
-# ybky_2023_backend
-It is an assignments and literature for YBKY project by Azimjon Pulatov
+# YBKY project
+
+## 1. Introduction
+
+It serves for anyone who is interested in developing backend applications. All assignments are grouped and explained in detail.

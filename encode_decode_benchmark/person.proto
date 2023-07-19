@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package encode_decode_benchmark;
+option go_package = "genproto/encode_decode_benchmark";
+message Personn {
+    string name = 1;
+    int32 age = 2;
+}
