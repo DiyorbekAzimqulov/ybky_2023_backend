@@ -31,12 +31,12 @@ go test -bench=.
 
 ## Literature Review
 
-(Benchmarking Go Programs)[https://gobyexample.com/testing-and-benchmarking]
+[Benchmarking Go Programs](https://gobyexample.com/testing-and-benchmarking)
 
-To learn more about GOB objects check this out: (GOB Objects)[https://go.dev/blog/gob]
+To learn more about GOB objects check this out: [GOB Objects](https://go.dev/blog/gob)
 
-Here is a good source about Protocol Buffers: (Protocol Buffers)[https://protobuf.dev/overview/]
+Here is a good source about Protocol Buffers: [Protocol Buffers](https://protobuf.dev/overview/)
 
-To learn about difference between JSON and ProtoBuf this Youtube video helps a lot: (JSON vs ProtoBuf)[https://www.youtube.com/watch?v=uGYZn6xk-hA]
+To learn about difference between JSON and ProtoBuf this Youtube video helps a lot: [JSON vs ProtoBuf](https://www.youtube.com/watch?v=uGYZn6xk-hA)
 
-To learn more about BSON and why it is used check this out: (BSON vs JSON)[https://www.mongodb.com/json-and-bson]
+To learn more about BSON and why it is used check this out: [BSON vs JSON](https://www.mongodb.com/json-and-bson)
